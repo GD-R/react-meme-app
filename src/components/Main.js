@@ -33,10 +33,6 @@ export default function Main() {
       console.log(allMeme);
     },[])
 
-    
-
-    
-
     const handelClick = () => {
       // console.log(allMeme);
         const memeArr = allMeme.data.memes;
